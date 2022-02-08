@@ -126,6 +126,19 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Lion",
+      "species": "Big Cat",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious",
+        "loving"
+      ],
+      "id": "13"
     }
+   
   ]
 }
